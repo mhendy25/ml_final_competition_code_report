@@ -3,7 +3,7 @@
 **Author:** Mohamed Hendy (mmh10013)  
 **Date:** December 2023  
 **Final Grade:** A  
-**Course Professors:** [Shengjie Wang](https://sheng-jie-wang.github.io/)
+**Course Professor:** [Shengjie Wang](https://sheng-jie-wang.github.io/)
 
 ## Introduction
 
